@@ -93,4 +93,4 @@ Introduzir ao versionamento de código com Git e GitHub.
 
 ##
 
-<div align="center">Feito por <a href="https://github.com/andersonodev">Eli</a>.</div>
+<div align="center">Feito por <a href="https://github.com/andersonodev">Anderson</a>.</div>
