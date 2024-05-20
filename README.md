@@ -29,7 +29,7 @@ Introduzir ao versionamento de código com Git e GitHub.
       <td>01</td>
       <td>Visão Geral do Curso e Ferramentas</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/resumos/01-visao-geral-do-curso-e-ferramentas.md">
+        <a href="https://github.com/andersonodev/git-github/blob/main/resumos/01-visao-geral-do-curso-e-ferramentas.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -38,7 +38,7 @@ Introduzir ao versionamento de código com Git e GitHub.
       <td>02</td>
       <td>Instalação, Configuração e Autenticação</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/resumos/02-instalacao-configuracao-e-autenticacao.md">
+        <a href="https://github.com/andersonodev/git-github/blob/main/resumos/02-instalacao-configuracao-e-autenticacao.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>
@@ -47,7 +47,7 @@ Introduzir ao versionamento de código com Git e GitHub.
       <td>03</td>
       <td>Primeiros Passos com Git e GitHub</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/resumos/03-primeiros-passos-com-git-e-github.md">
+        <a href="https://github.com/andersonodev/git-github/blob/main/resumos/03-primeiros-passos-com-git-e-github.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>    
@@ -56,7 +56,7 @@ Introduzir ao versionamento de código com Git e GitHub.
       <td>04</td>
       <td>Dicas e Materiais de Apoio</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/resumos/04-dicas-e-materiais-de-apoio.md">
+        <a href="https://github.com/andersonodev/git-github/blob/main/resumos/04-dicas-e-materiais-de-apoio.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>    
@@ -65,16 +65,15 @@ Introduzir ao versionamento de código com Git e GitHub.
   <tfoot></tfoot>
 </table>
 
-## Instrutora
-
+## Monitor
 <table>
   <tr>
     <td>
-      <img width="80px" align="center" src="https://avatars.githubusercontent.com/u/72580323?s=96&v=4>
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/andersonodev"/>
     </td>
     <td align="left">
-      <a href="https://github.com/andersonodev">
-        <span><b> Anderson Lima </b></span>
+      <a href="https://github.com/elidianaandrade">
+        <span><b>Anderson Lima</b></span>
       </a>
       <br>
       <span>Desenvolvedor Full Stack</span>
@@ -94,4 +93,4 @@ Introduzir ao versionamento de código com Git e GitHub.
 
 ##
 
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+<div align="center">Feito por <a href="https://github.com/andersonodev">Eli</a>.</div>
