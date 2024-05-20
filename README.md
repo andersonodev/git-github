@@ -74,10 +74,10 @@ Introduzir ao versionamento de código com Git e GitHub.
     </td>
     <td align="left">
       <a href="https://github.com/andersonodev">
-        <span><b>Anderson Lima </b></span>
+        <span><b> Anderson Lima </b></span>
       </a>
       <br>
-      <span>Desenvolvedor Full Stack/span>
+      <span>Desenvolvedor Full Stack</span>
     </td>
   </tr>
 </table>
