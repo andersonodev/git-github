@@ -5,14 +5,17 @@
 </h1>
 
 ## Objetivo
+
 Introduzir ao versionamento de código com Git e GitHub.
 
 ## Ferramentas
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 <br>
 
 ## Percurso
+
 <table>
   <thead>
     <tr align="left">
@@ -63,6 +66,7 @@ Introduzir ao versionamento de código com Git e GitHub.
 </table>
 
 ## Instrutora
+
 <table>
   <tr>
     <td>
@@ -70,7 +74,7 @@ Introduzir ao versionamento de código com Git e GitHub.
     </td>
     <td align="left">
       <a href="https://github.com/andersonodev">
-        <span><b>Anderson Lima/b></span>
+        <span><b>Anderson Lima </b></span>
       </a>
       <br>
       <span>Desenvolvedor Full Stack/span>
@@ -79,6 +83,7 @@ Introduzir ao versionamento de código com Git e GitHub.
 </table>
 
 ## Referências
+
 - [GIT. Documentation](https://git-scm.com/doc)
 - [GITHUB. Documentation](https://docs.github.com/)
 - [GITHUB BLOG. February 28th DDoS Incident Report](https://github.blog/2018-03-01-ddos-incident-report/)
@@ -88,4 +93,5 @@ Introduzir ao versionamento de código com Git e GitHub.
 - [MICROSOFT. Microsoft to acquire GitHub for $7.5 billion](https:/news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)
 
 ##
+
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
