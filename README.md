@@ -65,6 +65,7 @@ Introduzir ao versionamento de código com Git e GitHub.
 </table>
 
 ## Monitor
+
 <table>
   <tr>
     <td>
@@ -75,7 +76,7 @@ Introduzir ao versionamento de código com Git e GitHub.
         <span><b>Anderson Lima</b></span>
       </a>
       <br>
-      <span>Desenvolvedor Full Stack</span>
+      <span></span>
     </td>
   </tr>
 </table>
